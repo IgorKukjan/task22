@@ -1,0 +1,112 @@
+13:02:16.194 [main] INFO  by.task.kukjan.validator.ConeStringValidator - method isStringValid for line 4.9 6.3 5 1.0 2.10 7.0 returnsfalse
+13:02:16.200 [main] ERROR by.task.kukjan.parser.impl.ConeParserImpl - wrong data 4.9 6.3 5 1.0 2.10 7.0
+13:04:02.497 [main] INFO  by.task.kukjan.validator.ConeStringValidator - method isStringValid for line 4.9 6.3 5 1.0 2.10 returnstrue
+13:04:02.535 [main] INFO  by.task.kukjan.parser.impl.ConeParserImpl - Method parse returns [4.9, 6.3, 5.0, 1.0, 2.1]
+13:04:45.165 [main] INFO  by.task.kukjan.validator.ConeStringValidator - method isStringValid for line 4.9 6.3 5c 1.0 2.10 returnsfalse
+13:04:45.173 [main] ERROR by.task.kukjan.parser.impl.ConeParserImpl - wrong data 4.9 6.3 5c 1.0 2.10
+13:10:52.892 [main] INFO  by.task.kukjan.validator.ConeStringValidator - method isStringValid for line 4.9 6.3 5 -1.0 2.10 returnsfalse
+13:10:52.896 [main] ERROR by.task.kukjan.parser.impl.ConeParserImpl - wrong data 4.9 6.3 5 -1.0 2.10
+13:11:12.396 [main] INFO  by.task.kukjan.validator.ConeStringValidator - method isStringValid for line 4.9 6.3 5 -1.0 2.10 returnsfalse
+13:11:12.400 [main] ERROR by.task.kukjan.parser.impl.ConeParserImpl - wrong data 4.9 6.3 5 -1.0 2.10
+13:11:35.638 [main] INFO  by.task.kukjan.validator.ConeStringValidator - method isStringValid for line 4.9 -6.3 5 1.0 2.10 returnstrue
+13:11:35.648 [main] INFO  by.task.kukjan.parser.impl.ConeParserImpl - Method parse returns [4.9, -6.3, 5.0, 1.0, 2.1]
+14:20:44.790 [main] ERROR by.task.kukjan.reader.impl.ConeReaderImpl - File path represents invalid file
+14:22:06.640 [main] DEBUG by.task.kukjan.reader.impl.ConeReaderImpl - File has been validated
+14:22:06.651 [main] INFO  by.task.kukjan.reader.impl.ConeReaderImpl - Correct line was read in file:
+14:26:33.140 [main] DEBUG by.task.kukjan.reader.impl.ConeReaderImpl - File has been validated
+14:26:33.150 [main] INFO  by.task.kukjan.reader.impl.ConeReaderImpl - Correct line was read in file:
+14:26:44.983 [main] DEBUG by.task.kukjan.reader.impl.ConeReaderImpl - File has been validated
+14:26:44.997 [main] INFO  by.task.kukjan.reader.impl.ConeReaderImpl - Correct line was read in file:
+14:27:12.454 [main] ERROR by.task.kukjan.reader.impl.ConeReaderImpl - File path represents invalid file
+14:31:21.126 [main] ERROR by.task.kukjan.validator.FileNameValidator - The name of the path is empty
+14:31:33.787 [main] ERROR by.task.kukjan.validator.FileNameValidator - The path equal to null
+14:57:01.663 [main] INFO  by.task.kukjan.validator.ConeStringValidator - method isStringValid for line 5 t gh h 3.6 returnsfalse
+14:57:01.674 [main] INFO  by.task.kukjan.validator.ConeStringValidator - method isStringValid for line 5 h 2 1 2.9 returnsfalse
+14:57:01.676 [main] INFO  by.task.kukjan.validator.ConeStringValidator - method isStringValid for line 7.5 3.7 5.0 9.3 1 returnstrue
+14:57:01.678 [main] INFO  by.task.kukjan.validator.ConeStringValidator - method isStringValid for line 6.6 1.2 -4 4.6 1.2 returnstrue
+14:57:01.681 [main] INFO  by.task.kukjan.validator.ConeStringValidator - method isStringValid for line 3.2 1.4 2.3 -1.1 -2 returnsfalse
+14:57:01.683 [main] INFO  by.task.kukjan.validator.ConeStringValidator - method isStringValid for line 1 2 3 4 5 returnstrue
+14:57:23.426 [main] INFO  by.task.kukjan.validator.ConeStringValidator - method isStringValid for line 5 t gh h 3.6 returnsfalse
+14:57:23.436 [main] INFO  by.task.kukjan.validator.ConeStringValidator - method isStringValid for line 5 h 2 1 2.9 returnsfalse
+14:57:23.438 [main] INFO  by.task.kukjan.validator.ConeStringValidator - method isStringValid for line 7.5 3.7 5.0 9.3 1 returnstrue
+14:57:23.440 [main] INFO  by.task.kukjan.validator.ConeStringValidator - method isStringValid for line 6.6 1.2 -4 4.6 1.2. returnsfalse
+14:57:23.450 [main] INFO  by.task.kukjan.validator.ConeStringValidator - method isStringValid for line 3.2 1.4 2.3 -1.1 -2 returnsfalse
+14:57:23.451 [main] INFO  by.task.kukjan.validator.ConeStringValidator - method isStringValid for line 1 2 3 4 5 returnstrue
+16:27:54.911 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Volume is 37.69911184307752
+16:28:42.732 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Volume is 37.69911184307752
+16:31:35.984 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Volume is 301.59289474462014
+16:31:56.768 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Volume is 301.59289474462014
+16:34:34.714 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Lateral surface area is 188.49555921538757
+16:36:48.150 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Lateral surface area is 188.49555921538757
+16:37:14.516 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Lateral surface area is 188.49555921538757
+16:37:57.827 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Lateral surface area is 188.49555921538757
+16:37:57.834 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Area is 301.59289474462014
+16:39:46.329 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Lateral surface area is 188.49555921538757
+16:39:46.336 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Area is 301.59289474462014
+16:43:55.990 [main] INFO  by.task.kukjan.validator.ConeStringValidator - method isStringValid for line 4.9 -6.3 5 1.0 2.10 returns true
+16:43:55.996 [main] INFO  by.task.kukjan.parser.impl.ConeParserImpl - Method parse returns [4.9, -6.3, 5.0, 1.0, 2.1]
+16:46:29.893 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Volume is 301.59289474462014
+21:10:47.820 [main] INFO  by.task.kukjan.reader.impl.ConeReaderImpl - Correct line was read in file:
+21:10:54.318 [main] ERROR by.task.kukjan.reader.impl.ConeReaderImpl - File src\test\java\resources\noFile.txtwas not found or is not available
+21:12:54.992 [main] ERROR by.task.kukjan.reader.impl.ConeReaderImpl - File src\test\java\resources\noFile.txtwas not found or is not available
+21:13:08.177 [main] ERROR by.task.kukjan.validator.FileNameValidator - The path equal to null
+21:13:13.249 [main] ERROR by.task.kukjan.validator.FileNameValidator - The name of the path is empty
+22:55:22.956 [main] INFO  by.task.kukjan.validator.ConeStringValidator - method isStringValid for line 4.9 -6.3 5 1.0 2.10 returns true
+22:55:22.964 [main] INFO  by.task.kukjan.parser.impl.ConeParserImpl - Method parse returns [4.9, -6.3, 5.0, 1.0, 2.1]
+22:55:30.158 [main] INFO  by.task.kukjan.reader.impl.ConeReaderImpl - Correct line was read in file:
+22:55:45.447 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Lateral surface area is 188.49555921538757
+22:55:54.464 [main] INFO  by.task.kukjan.validator.ConeStringValidator - method isStringValid for line 5 t gh h 3.6 returns false
+22:55:54.471 [main] INFO  by.task.kukjan.validator.ConeStringValidator - method isStringValid for line 5 h 2 1 2.9 returns false
+22:55:54.473 [main] INFO  by.task.kukjan.validator.ConeStringValidator - method isStringValid for line 7.5 3.7 5.0 9.3 1 returns true
+22:55:54.474 [main] INFO  by.task.kukjan.validator.ConeStringValidator - method isStringValid for line 6.6 1.2 -4 4.6 1.2 returns true
+22:55:54.476 [main] INFO  by.task.kukjan.validator.ConeStringValidator - method isStringValid for line 3.2 1.4 2.3 -1.1 -2 returns false
+22:55:54.478 [main] INFO  by.task.kukjan.validator.ConeStringValidator - method isStringValid for line 1 2 3 4 5 returns true
+23:04:09.182 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Lateral surface area is 188.49555921538757
+23:04:09.186 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Area is 301.59289474462014
+23:20:05.875 [main] INFO  by.task.kukjan.validator.ConeStringValidator - method isStringValid for line 4.9 -6.3 5 1.0 2.10 returns true
+23:20:05.879 [main] INFO  by.task.kukjan.parser.impl.ConeParserImpl - Method parse returns [4.9, -6.3, 5.0, 1.0, 2.1]
+23:29:36.878 [main] INFO  by.task.kukjan.validator.ConeStringValidator - method isStringValid for line 4.9 -6.3 5 1.0 2.10 returns true
+23:29:36.884 [main] INFO  by.task.kukjan.parser.impl.ConeParserImpl - Method parse returns [4.9, -6.3, 5.0, 1.0, 2.1]
+15:00:17.372 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=3, circleCenter=Point{x=1.0, y=1.0, z=0.0}, radius=6.0, height=4.0}
+15:00:17.386 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=4, circleCenter=Point{x=2.0, y=3.0, z=4.0}, radius=7.0, height=2.0}
+15:01:14.248 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=3, circleCenter=Point{x=1.0, y=1.0, z=0.0}, radius=6.0, height=4.0}
+15:01:14.263 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=4, circleCenter=Point{x=2.0, y=3.0, z=4.0}, radius=7.0, height=2.0}
+15:01:40.875 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=3, circleCenter=Point{x=1.0, y=1.0, z=0.0}, radius=6.0, height=4.0}
+15:01:40.890 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=4, circleCenter=Point{x=2.0, y=3.0, z=4.0}, radius=7.0, height=8.0}
+15:03:14.508 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=3, circleCenter=Point{x=1.0, y=1.0, z=0.0}, radius=6.0, height=4.0}
+15:03:14.521 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=4, circleCenter=Point{x=2.0, y=3.0, z=4.0}, radius=7.0, height=8.0}
+15:06:57.581 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=4, circleCenter=Point{x=1.0, y=1.0, z=0.0}, radius=6.0, height=4.0}
+15:06:57.596 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=5, circleCenter=Point{x=2.0, y=3.0, z=4.0}, radius=7.0, height=8.0}
+15:06:57.598 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=6, circleCenter=Point{x=2.0, y=3.0, z=4.0}, radius=7.0, height=8.0}
+15:08:06.706 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=5, circleCenter=Point{x=1.0, y=1.0, z=0.0}, radius=6.0, height=4.0}
+15:08:06.719 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=6, circleCenter=Point{x=2.0, y=3.0, z=4.0}, radius=7.0, height=8.0}
+15:08:06.721 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=7, circleCenter=Point{x=2.0, y=3.0, z=4.0}, radius=7.0, height=8.0}
+15:08:06.722 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=8, circleCenter=Point{x=2.0, y=3.0, z=4.0}, radius=7.0, height=8.0}
+15:09:02.218 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=2, circleCenter=Point{x=2.0, y=3.0, z=4.0}, radius=7.0, height=8.0}
+15:12:56.249 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=2, circleCenter=Point{x=2.0, y=3.0, z=4.0}, radius=7.0, height=8.0}
+15:14:28.614 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=1, circleCenter=Point{x=2.0, y=3.0, z=4.0}, radius=7.0, height=8.0}
+15:15:45.569 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=4, circleCenter=Point{x=1.0, y=1.0, z=0.0}, radius=6.0, height=4.0}
+15:15:45.583 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=5, circleCenter=Point{x=2.0, y=3.0, z=4.0}, radius=7.0, height=8.0}
+15:15:45.587 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=6, circleCenter=Point{x=2.0, y=3.0, z=4.0}, radius=7.0, height=8.0}
+15:15:45.589 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=7, circleCenter=Point{x=2.0, y=3.0, z=4.0}, radius=7.0, height=8.0}
+15:16:41.904 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=2, circleCenter=Point{x=1.0, y=1.0, z=0.0}, radius=6.0, height=4.0}
+15:16:41.919 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=3, circleCenter=Point{x=2.0, y=3.0, z=4.0}, radius=7.0, height=8.0}
+15:17:15.051 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=3, circleCenter=Point{x=1.0, y=1.0, z=0.0}, radius=6.0, height=4.0}
+15:17:15.065 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=4, circleCenter=Point{x=2.0, y=3.0, z=4.0}, radius=7.0, height=8.0}
+15:17:15.069 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=5, circleCenter=Point{x=2.0, y=3.0, z=4.0}, radius=7.0, height=8.0}
+15:35:34.407 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=3, circleCenter=Point{x=1.0, y=1.0, z=0.0}, radius=6.0, height=4.0}
+15:35:34.418 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=4, circleCenter=Point{x=2.0, y=3.0, z=4.0}, radius=7.0, height=8.0}
+15:35:34.419 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=5, circleCenter=Point{x=2.0, y=3.0, z=4.0}, radius=7.0, height=8.0}
+15:47:35.448 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=3, circleCenter=Point{x=1.0, y=1.0, z=0.0}, radius=6.0, height=4.0}
+15:47:35.460 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=4, circleCenter=Point{x=2.0, y=3.0, z=4.0}, radius=7.0, height=8.0}
+15:47:35.463 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=5, circleCenter=Point{x=2.0, y=3.0, z=4.0}, radius=7.0, height=8.0}
+15:50:04.671 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=3, circleCenter=Point{x=1.0, y=1.0, z=0.0}, radius=6.0, height=4.0}
+15:50:04.684 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=4, circleCenter=Point{x=2.0, y=3.0, z=4.0}, radius=7.0, height=8.0}
+15:50:04.686 [main] INFO  by.task.kukjan.factory.ConeFactory - Cone is created successfully: Cone{coneId=5, circleCenter=Point{x=2.0, y=3.0, z=4.0}, radius=7.0, height=8.0}
+13:05:47.217 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Lateral surface area is 47.12388980384689
+13:05:47.224 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Area is 75.39822368615503
+13:05:47.224 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Volume is 37.69911184307752
+13:05:47.269 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Lateral surface area is 100.58004032170892
+13:05:47.270 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Area is 179.11985666145375
+13:05:47.270 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Volume is 104.71975511965977
+13:05:47.273 [main] INFO  by.task.kukjan.observer.impl.ConeObserverImpl - Parameters of the Cone has been update 

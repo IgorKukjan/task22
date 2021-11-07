@@ -1,0 +1,42 @@
+13:05:47.273 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Lateral surface area is 100.58004032170892
+13:05:47.285 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Area is 179.11985666145375
+13:06:57.145 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Lateral surface area is 47.12388980384689
+13:06:57.153 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Area is 75.39822368615503
+13:06:57.154 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Volume is 37.69911184307752
+13:06:57.192 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Lateral surface area is 100.58004032170892
+13:06:57.192 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Area is 179.11985666145375
+13:06:57.193 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Volume is 104.71975511965977
+13:06:57.196 [main] INFO  by.task.kukjan.observer.impl.ConeObserverImpl - Parameters of the Cone has been update 
+13:06:57.196 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Lateral surface area is 100.58004032170892
+13:06:57.197 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Area is 179.11985666145375
+13:16:02.526 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Lateral surface area is 47.12388980384689
+13:16:02.534 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Area is 75.39822368615503
+13:16:02.536 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Volume is 37.69911184307752
+13:16:02.603 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Lateral surface area is 100.58004032170892
+13:16:02.604 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Area is 179.11985666145375
+13:16:02.604 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Volume is 104.71975511965977
+13:16:02.609 [main] INFO  by.task.kukjan.observer.impl.ConeObserverImpl - Parameters of the Cone has been update 
+13:16:02.610 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Volume is 104.71975511965977
+13:24:17.402 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Lateral surface area is 47.12388980384689
+13:24:17.408 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Area is 75.39822368615503
+13:24:17.409 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Volume is 37.69911184307752
+13:24:17.461 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Lateral surface area is 33.98152019741693
+13:24:17.462 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Area is 62.25585407972507
+13:24:17.462 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Volume is -18.84955592153876
+13:24:17.467 [main] INFO  by.task.kukjan.observer.impl.ConeObserverImpl - Parameters of the Cone has been update 
+14:10:38.488 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Lateral surface area is 47.12388980384689
+14:10:38.493 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Area is 75.39822368615503
+14:10:38.494 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Volume is 37.69911184307752
+14:10:38.500 [main] INFO  by.task.kukjan.filler.impl.WarehouseFillerImpl - add to warehouse cone 
+14:23:05.771 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Lateral surface area is 47.12388980384689
+14:23:05.779 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Area is 75.39822368615503
+14:23:05.780 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Volume is 37.69911184307752
+14:23:05.784 [main] INFO  by.task.kukjan.filler.impl.WarehouseFillerImpl - add to warehouse cone 
+14:23:36.670 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Lateral surface area is 47.12388980384689
+14:23:36.677 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Area is 75.39822368615503
+14:23:36.678 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Volume is 37.69911184307752
+14:23:36.683 [main] INFO  by.task.kukjan.filler.impl.WarehouseFillerImpl - add to warehouse cone 
+14:24:15.078 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Lateral surface area is 47.12388980384689
+14:24:15.085 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Area is 75.39822368615503
+14:24:15.086 [main] INFO  by.task.kukjan.service.impl.ConeCalculateServiceImpl - Volume is 37.69911184307752
+14:24:15.090 [main] INFO  by.task.kukjan.filler.impl.WarehouseFillerImpl - add to warehouse cone 
